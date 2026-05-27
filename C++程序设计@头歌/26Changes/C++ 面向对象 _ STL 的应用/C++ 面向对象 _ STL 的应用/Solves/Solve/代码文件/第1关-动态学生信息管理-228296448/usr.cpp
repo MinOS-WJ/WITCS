@@ -51,7 +51,7 @@ int main() {
             
         } else if (op == 'P') {
             if (table.empty()) {
-                cout << "[绌篯" << endl;
+                cout << "[空]" << endl;
             } else {
                 for (vector<Student>::iterator it = table.begin(); it != table.end(); it++) {
                     cout << it->name << " " << it->score << endl;
