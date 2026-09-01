@@ -30,7 +30,7 @@ WITCS 致力于收集、整理和分享武汉工程大学计算机科学领域�
 ## 📫 联系我们
 
 - 维护者：[MinOS-WJ (Wang JiangYuZhu)](https://github.com/MinOS-WJ)、[switchsw6](https://github.com/switchsw6)
-- 邮箱：wangjiangyuzhu@gmail.com
+- 邮箱：minoswj@outlook.com
 
 ---
 
